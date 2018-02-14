@@ -1,0 +1,33 @@
+{
+	"name": "rndint",
+	"version": "0.0.1",
+	"description": "Small library generating random integers of uniform distribution",
+	"main": "rndint.js",
+    "dependencies": {
+	},
+	"scripts": {
+		"test": "node ./test/rndint-test.js"
+	},
+	"engines": {
+		"node": ">=4.2.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rinne/node-rndint.git"
+	},
+	"keywords": [
+		"encryption",
+		"cipher",
+		"bitwise"
+	],
+	"author": {
+		"name": "Timo J. Rinne",
+		"email": "tri@iki.fi",
+		"url": "https://github.com/rinne/"
+	},
+	"license": "GPL-2.0",
+	"bugs": {
+		"url": "https://github.com/rinne/node-rndint/issues"
+	},
+	"homepage": "https://github.com/rinne/node-rndint#readme"
+}
